@@ -1,0 +1,11 @@
+{
+  "name": "gpt-fetch",
+  "version": "1.0.0",
+  "description": "Software for ChatGPT to fetch resources denied by robots.txt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "theWebCrawler",
+  "license": "ISC"
+}
